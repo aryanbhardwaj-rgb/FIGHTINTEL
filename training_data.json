@@ -1,0 +1,13122 @@
+[
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "LEFT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "LEFT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "PUNCH"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "PUNCH",
+      "RIGHT"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "RIGHT",
+      "PUNCH"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "PUNCH",
+      "RIGHT"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "RIGHT",
+      "PUNCH"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "PUNCH",
+      "RIGHT"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "RIGHT",
+      "PUNCH"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "PUNCH",
+      "RIGHT"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "RIGHT",
+      "PUNCH"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "PUNCH",
+      "RIGHT"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "RIGHT",
+      "PUNCH"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "PUNCH",
+      "RIGHT"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "RIGHT",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "RIGHT"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "RIGHT",
+      "PUNCH"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "PUNCH",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "JUMP",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "RIGHT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "RIGHT",
+      "LEFT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "LEFT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "LEFT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "LEFT",
+      "RIGHT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "RIGHT",
+      "LEFT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "LEFT",
+      "RIGHT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "RIGHT",
+      "LEFT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "LEFT",
+      "RIGHT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "RIGHT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "LEFT",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "JUMP"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "JUMP",
+      "LEFT"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "LEFT",
+      "JUMP"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "JUMP",
+      "LEFT"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "LEFT",
+      "JUMP"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "JUMP",
+      "LEFT"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "LEFT",
+      "JUMP"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "JUMP",
+      "LEFT"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "LEFT",
+      "JUMP"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "JUMP",
+      "LEFT"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "LEFT",
+      "JUMP"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "JUMP",
+      "LEFT"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "LEFT",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "LEFT",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "JUMP",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "LEFT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "LEFT",
+      "RIGHT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "RIGHT",
+      "LEFT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "LEFT",
+      "RIGHT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "RIGHT",
+      "LEFT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "LEFT",
+      "RIGHT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "RIGHT",
+      "LEFT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "LEFT",
+      "RIGHT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "RIGHT",
+      "LEFT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "LEFT",
+      "RIGHT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "RIGHT",
+      "LEFT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "LEFT",
+      "RIGHT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "RIGHT",
+      "LEFT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "LEFT",
+      "RIGHT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "RIGHT",
+      "LEFT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "LEFT",
+      "RIGHT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "RIGHT",
+      "LEFT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "LEFT",
+      "RIGHT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "RIGHT",
+      "LEFT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "LEFT",
+      "RIGHT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "RIGHT",
+      "LEFT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "LEFT",
+      "RIGHT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "RIGHT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "JUMP"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "JUMP",
+      "RIGHT"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "RIGHT",
+      "JUMP"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "JUMP",
+      "RIGHT"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "RIGHT",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "JUMP",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "LEFT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "LEFT",
+      "RIGHT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "RIGHT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "LEFT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "LEFT",
+      "RIGHT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "RIGHT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "LEFT",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "PUNCH"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "PUNCH"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "PUNCH",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "PUNCH",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "JUMP"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "JUMP",
+      "JUMP",
+      "RIGHT"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "RIGHT",
+      "JUMP"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "JUMP",
+      "RIGHT"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "RIGHT",
+      "JUMP"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "JUMP",
+      "RIGHT"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "RIGHT",
+      "JUMP"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "JUMP",
+      "RIGHT"
+    ],
+    "output": "JUMP"
+  },
+  {
+    "input": [
+      "JUMP",
+      "RIGHT",
+      "JUMP"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "JUMP",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "JUMP",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "LEFT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "LEFT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "LEFT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "LEFT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  },
+  {
+    "input": [
+      "RIGHT",
+      "RIGHT",
+      "RIGHT"
+    ],
+    "output": "RIGHT"
+  }
+]
